@@ -56,6 +56,7 @@ Plasma welding offers the most significant degree of flexibility because the ope
 3. Now that you have imported the path from SolidWorks, you can go to RoboDK.
 4. In the station tree, click Weld1 Settings which will open the Curve Follow Project.
 5. Click Update to generate the program and then Simulate.
+
 6. ![image](https://user-images.githubusercontent.com/36288975/173730531-c72ca3bd-9eb2-4a06-9e88-8a745cd0c5fd.png)
 First, you should fix the path itself:
 1. In the Curve Follow Project, click on Select Curve (going from 1 to 2, then 3 to 4, 5 to 6, 7 to 8, and 9
@@ -82,9 +83,14 @@ with; you can reveal them by clicking the blue plus button and change them accor
 button.
 11. As you can see with the ghost tools, the robot flange will always be on top of the part. Click Update and
 then Simulate to simulate the result.
+
 12. If you use the scroll bar, the new tool orientation facilitates the cable management of the tool; it has no
 risk of interfering with the robot.
+
+
 ![image](https://user-images.githubusercontent.com/36288975/173730700-8782988f-bb79-465e-95f4-e4041b740c70.png)
+
+
 
 1. Put back the default normal approach of 100 mm.
 2. Add a movement, for example, along Z.
